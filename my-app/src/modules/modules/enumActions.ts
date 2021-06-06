@@ -1,0 +1,5 @@
+import React from 'react';
+export enum ACTION_TYPES {
+    ADD_RESERVATION = "ADD_RESERVATION",
+    UPDATE_RESERVATION = "UPDATE_RESERVATION"
+}
