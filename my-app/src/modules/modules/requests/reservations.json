@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "roomId": 1,
+        "reservedBy": "Jhon",
+        "from": "June 4th 2021, 1:42:15 am",
+        "to": "June 4th 2021, 3:42:15 am",
+        "notes": "string"
+    },
+    {
+        "id": 2,
+        "roomId": 2,
+        "reservedBy": "Jhon",
+        "from": "June 4th 2021, 1:42:15 am",
+        "to": "June 4th 2021, 3:42:15 am",
+        "notes": "string"
+    },
+    {
+        "id": 3,
+        "roomId": 3,
+        "reservedBy": "Jhon",
+        "from": "June 4th 2021, 1:42:15 am",
+        "to": "June 4th 2021, 3:42:15 am",
+        "notes": "string"
+    }
+]
